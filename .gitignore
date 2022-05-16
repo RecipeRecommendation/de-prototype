@@ -1,0 +1,4 @@
+.idea
+object_detection/yolov5/best.pt
+object_detection/yolov5/.github
+object_detection/yolov5/__pycache__
