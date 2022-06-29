@@ -6,7 +6,7 @@ In order to solve these day-to-day problems, we have come up with a system that 
 
 Briefing more about our project, it provides a fully auto- mated system that relieves the users from buying the grocery by themselves by automating it and adding the ingredients that are less in the refrigerator to their Big Basket cart. Users can review the cart and place an order. The system also provides a recommender that studies user’s history and recommends recipes to them.
 
-### Our prototype consists of 6 parts:
+### Our prototype consists of 5 parts:
 - Object Detection
 - Recipe Recommendation
 - Web Crawler using Selenium • Flask
